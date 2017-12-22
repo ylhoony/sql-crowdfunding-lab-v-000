@@ -18,7 +18,3 @@ INSERT INTO users (name, age) VALUES ("Alyssa	Cannon", 28);
 INSERT INTO users (name, age) VALUES ("Sadie	Fox", 37);
 INSERT INTO users (name, age) VALUES ("Jean	Brock", 33);
 INSERT INTO users (name, age) VALUES ("Ervin	Garza", 67);
-
-
-
-
