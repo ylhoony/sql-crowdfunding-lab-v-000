@@ -18,3 +18,11 @@ INSERT INTO users (name, age) VALUES ("Alyssa	Cannon", 28);
 INSERT INTO users (name, age) VALUES ("Sadie	Fox", 37);
 INSERT INTO users (name, age) VALUES ("Jean	Brock", 33);
 INSERT INTO users (name, age) VALUES ("Ervin	Garza", 67);
+
+id, title,
+category,
+funding_goal INTEGER,
+start_date TEXT,
+end_date TEXT
+
+INSERT INTO projects ()
